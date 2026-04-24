@@ -1,0 +1,3 @@
+/home/adham/lab/ex12/ex1/gdb-demo/build/CMakeFiles/my_app.dir
+/home/adham/lab/ex12/ex1/gdb-demo/build/CMakeFiles/edit_cache.dir
+/home/adham/lab/ex12/ex1/gdb-demo/build/CMakeFiles/rebuild_cache.dir
